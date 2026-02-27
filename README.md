@@ -7,7 +7,6 @@
 
 Project Preview -
 <img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/6cd22297-1685-4e19-8b39-84495aa2541a" />
-<img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/6cd22297-1685-4e19-8b39-84495aa2541a" />
 
 
 A production-grade web automation testing framework built using **WebdriverIO**, 
@@ -108,4 +107,5 @@ The pipeline:
 
 **Aditya Kumar Jha**  
 [GitHub](https://github.com/Aditya-myst)
+
 
