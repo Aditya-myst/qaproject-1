@@ -1,5 +1,5 @@
 const LoginPage = require('../pageobjects/login.page.js')
-const ProductsPage = require('../pageobjects/product.page.jsgit push -u origin main')
+const ProductsPage = require('../pageobjects/product.page.js')
 
 describe('Cart Feature', () => {
 
