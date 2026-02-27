@@ -5,6 +5,11 @@
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&logo=webdriverio&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+Project Preview -
+<img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/6cd22297-1685-4e19-8b39-84495aa2541a" />
+<img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/6cd22297-1685-4e19-8b39-84495aa2541a" />
+
+
 A production-grade web automation testing framework built using **WebdriverIO**, 
 **Mocha**, and **Page Object Model (POM)** design pattern with automated CI/CD 
 pipeline via GitHub Actions.
@@ -103,3 +108,4 @@ The pipeline:
 
 **Aditya Kumar Jha**  
 [GitHub](https://github.com/Aditya-myst)
+
